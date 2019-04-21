@@ -4,7 +4,7 @@
 <i>Authors: Kito Patterson and Hayley Horn</i>
 
 stats2_project2.ipynb -contains the code for the paper
-Patterson_Horn_Logistic_Regression_Data_Analysis_Project_04162019.docx - the paper
+Patterson_Horn_Logistic_Regression_Data_Analysis_Project_04212019.docx - the paper
 
 
 
