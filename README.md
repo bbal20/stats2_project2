@@ -1,5 +1,5 @@
 # stats2_project2
-<H2>Using Logistic Regression and other Models to predict Defaults</H2>
+<H2>Using Logistic Regression and other Models to predict Home Equity Loan Defaults</H2>
 
 <i>Authors: Kito Patterson and Hayley Horn</i>
 
