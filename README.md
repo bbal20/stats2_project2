@@ -3,8 +3,10 @@
 
 <i>Authors: Kito Patterson and Hayley Horn</i>
 
-stats2_project2.ipynb -contains the code for the paper
+stats2_project2_python_code.ipynb -Contains the code for the paper
+stats2_project2_python_code.pdf -Readable code format
 Patterson_Horn_Logistic_Regression_Data_Analysis_Project_04212019.docx - the paper
+hmeq-data.zip -Contains source data
 
 
 
